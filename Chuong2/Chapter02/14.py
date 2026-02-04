@@ -1,4 +1,4 @@
-n = int(input('nhap mot so: '))
+n = int(input('nhap so nguyen: '))
 if n <= 1:
     print (f'{n} khong phai snt')
 else:
